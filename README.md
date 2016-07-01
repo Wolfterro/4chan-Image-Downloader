@@ -9,6 +9,8 @@
 
 ###### Ao escolher a board e o tópico desejado, o programa irá fazer uma varredura para determinar a quantidade de imagens e vídeos disponíveis. Ele então irá fazer o download de todos os arquivos do tópico para a pasta que você tenha escolhido ou para a pasta 4chan do usuário atual, caso não tenha escolhido nenhuma pasta de destino.
 
+![4chan Image Downloader](https://raw.githubusercontent.com/Wolfterro/wolfterro.github.io/master/posts/img/imagens_de_projetos/4chan_image_downloader.png)
+
 ### Requisitos:
 
 #### Compilando:
