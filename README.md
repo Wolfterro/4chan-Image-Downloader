@@ -30,9 +30,6 @@
 - Pode ser executado diretamente, sem qualquer requisito ou dependência.
 
 ### Download e Execução:
-- Utilizando o git:
-
-            git clone https://github.com/Wolfterro/4chan-Image-Downloader.git
 
 #### Linux: https://github.com/Wolfterro/4chan-Image-Downloader/releases/tag/v1.0-Linux
 
