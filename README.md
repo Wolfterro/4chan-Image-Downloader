@@ -30,10 +30,12 @@
 - Pode ser executado diretamente, sem qualquer requisito ou dependência.
 
 ### Download e Execução:
+- Utilizando o git:
 
-      git clone https://github.com/Wolfterro/4chan-Image-Downloader.git
-      cd 4chan-Image-Downloader/Linux/bin
-      chmod +x "4chan Image Downloader"
-      ./"4chan Image Downloader"
+            git clone https://github.com/Wolfterro/4chan-Image-Downloader.git
 
-###### Caso não possua o git ou esteja usando o Windows, baixe através deste [Link](https://github.com/Wolfterro/4chan-Image-Downloader/archive/master.zip) ou clique em "Clone or Download", no topo da página.
+#### Linux: https://github.com/Wolfterro/4chan-Image-Downloader/releases/tag/v1.0-Linux
+
+#### Windows: https://github.com/Wolfterro/4chan-Image-Downloader/releases/tag/v1.0-Windows
+
+###### Caso não possua o git e queira também baixar o repositório por completo, baixe através deste [Link](https://github.com/Wolfterro/4chan-Image-Downloader/archive/master.zip) ou clique em "Clone or Download", no topo da página.
