@@ -29,7 +29,7 @@
 #### Binário:
 - Pode ser executado diretamente, sem qualquer requisito ou dependência.
 
-### Download e Execução:
+### Download:
 
 #### Linux: https://github.com/Wolfterro/4chan-Image-Downloader/releases/tag/v1.0-Linux
 
